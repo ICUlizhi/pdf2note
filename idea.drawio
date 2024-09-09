@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" modified="2024-09-09T17:29:50.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="3FKSFl-UXa9LX-U4kOiQ" version="24.5.4" type="device">
+  <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
+    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-1" value="Lecture1.pdf" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-2" value="Lecture2.pdf" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-3" value="Lecture3.pdf" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Verdana;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+            <mxPoint x="110" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="20" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-7" value="course.pdf" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-8" value="" style="endArrow=classic;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;html=1;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="460" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-9" target="FexS0ygEqCbX3HT3cNTW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-9" value="course.md" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-11" value="mathpix" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-15" value="PyPDF2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-16" target="FexS0ygEqCbX3HT3cNTW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-16" value="note.md" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontStyle=1" edge="1" parent="1" source="FexS0ygEqCbX3HT3cNTW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-18" value="py" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-20" value="dox2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-21" value="llm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FexS0ygEqCbX3HT3cNTW-23" value="note.pdf" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

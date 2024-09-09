@@ -21,6 +21,6 @@ def remove_duplicate_titles(input_file, output_file):
         f.writelines(output_lines)
 
 # 示例调用
-input_md = 'input.md'  # 你可以替换为其他变量
-output_md = 'output.md'
+input_md = 'courses.md'  # 你可以替换为其他变量
+output_md = 'note.md'
 remove_duplicate_titles(input_md, output_md)
