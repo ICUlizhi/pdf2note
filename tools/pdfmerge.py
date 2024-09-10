@@ -24,9 +24,10 @@ def merge_pdfs_in_directory(directory, output_filename):
     # 关闭合并器
     merger.close()
 
-# 指定当前目录下的一个文件夹和输出文件名
-directory = './lectures'
-output_filename = 'merged_output.pdf'
+if __name__ == "__main__":
+    # 指定当前目录下的一个文件夹和输出文件名
+    directory = './lectures'
+    output_filename = 'merged_output.pdf'
 
-# 调用函数合并PDF文件
-merge_pdfs_in_directory(directory, output_filename)
+    # 调用函数合并PDF文件
+    merge_pdfs_in_directory(directory, output_filename)
